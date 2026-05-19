@@ -167,4 +167,3 @@ We have some great contributions from the community, and while these aren't main
 
 [eShopOnWeb VB.NET](https://github.com/VBAndCs/eShopOnWeb_VB.NET) by Mohammad Hamdy Ghanem
 
-[![eShopOnWeb - Code Index](https://github.com/Devopstrainerforlearning/shopweb/actions/workflows/richnav.yml/badge.svg)](https://github.com/Devopstrainerforlearning/shopweb/actions/workflows/richnav.yml)
