@@ -166,3 +166,5 @@ You can also run the applications by using the instructions located in their `Do
 We have some great contributions from the community, and while these aren't maintained by Microsoft we still want to highlight them.
 
 [eShopOnWeb VB.NET](https://github.com/VBAndCs/eShopOnWeb_VB.NET) by Mohammad Hamdy Ghanem
+
+[![eShopOnWeb - Code Index](https://github.com/Devopstrainerforlearning/shopweb/actions/workflows/richnav.yml/badge.svg)](https://github.com/Devopstrainerforlearning/shopweb/actions/workflows/richnav.yml)
