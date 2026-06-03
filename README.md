@@ -171,3 +171,7 @@ We have some great contributions from the community, and while these aren't main
 Dotnetcore workflow:
 [![.github/workflows/dotnetcore.yml](https://github.com/Devopstrainerforlearning/shopweb/actions/workflows/dotnetcore.yml/badge.svg)](https://github.com/Devopstrainerforlearning/shopweb/actions/workflows/dotnetcore.yml)
 
+## status badge for  sampleworkflow
+
+[![GitHub Actions Demo](https://github.com/Devopstrainerforlearning/shopweb/actions/workflows/myfirstdemoworkflow.yml/badge.svg)](https://github.com/Devopstrainerforlearning/shopweb/actions/workflows/myfirstdemoworkflow.yml)
+
